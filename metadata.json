@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Urukundo - Burundian Dating",
+  "description": "A premium dating experience tailored for the Burundian community, featuring smart AI matching and cultural nuances.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
