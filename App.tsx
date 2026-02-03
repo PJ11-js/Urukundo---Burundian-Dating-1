@@ -124,4 +124,6 @@ const App: React.FC = () => {
   );
 };
 
+types.ts
+
 export default App;
